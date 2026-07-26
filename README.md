@@ -15,7 +15,6 @@
 
 ### 🔗 [**LAUNCH LIVE DEMO »**](https://usmani-billing.streamlit.app/)
 
-<sub>⚠ Replace the link above with your actual deployed Streamlit URL once you publish the app (see <a href="#-deployment">Deployment</a> below).</sub>
 
 </div>
 
